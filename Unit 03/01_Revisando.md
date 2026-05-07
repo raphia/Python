@@ -71,3 +71,15 @@ N1_04 Calculadora de Área: Peça a largura e a altura de uma parede em metros. 
 
 N1_05 Antecessor e Sucessor: Peça um número inteiro e mostre o seu antecessor e seu sucessor.
 
+### Nível 1: Condições Básicas (if/else)  N1_06 até N1_10
+N1_06 Radar Eletrônico: Peça a velocidade de um carro. Se ultrapassar 80km/h, exiba uma mensagem dizendo que ele foi multado. A multa custa R$ 7,00 por cada km acima do limite.
+
+N1_07 Maior e Menor: Peça dois números e mostre qual deles é o maior ou se são iguais.
+
+N1_08 Par ou Ímpar: Crie um programa que receba um número e diga se ele é par ou ímpar usando o operador %
+
+N1_09 Aumento Salarial: Se o salário for superior a R$ 1.250,00, calcule um aumento de 10%. Para inferiores ou iguais, o aumento é de 15%.
+
+N1_10 Custo da Viagem: Pergunte a distância de uma viagem em Km. Calcule o preço da passagem, cobrando R$ 0,50 por Km para viagens de até 200Km e R$ 0,45 para viagens mais longas.
+
+### Nível 1: Lógica e Condições Compostas (elif) N1_11 até N1_15
