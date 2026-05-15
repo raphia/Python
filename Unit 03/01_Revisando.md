@@ -83,3 +83,31 @@ N1_09 Aumento Salarial: Se o salário for superior a R$ 1.250,00, calcule um aum
 N1_10 Custo da Viagem: Pergunte a distância de uma viagem em Km. Calcule o preço da passagem, cobrando R$ 0,50 por Km para viagens de até 200Km e R$ 0,45 para viagens mais longas.
 
 ### Nível 1: Lógica e Condições Compostas (elif) N1_11 até N1_15
+
+N1_11 Alistamento Militar: Peça o ano de nascimento. Se ele tiver menos de 18 anos, diga quanto tempo falta para o alistamento. Se tiver 18, diga que é a hora. Se tiver mais, diga quanto tempo passou do prazo.
+
+N1_12 Média Escolar 2.0: Calcule a média de duas notas. Abaixo de 5.0: REPROVADO. Entre 5.0 e 6.9: RECUPERAÇÃO. 7.0 ou superior: APROVADO.
+
+N1_13 Classificando Atletas: A Confederação Nacional de Natação precisa de um programa que leia o ano de nascimento de um atleta e mostre sua categoria:
+
+    Até 9 anos: MIRIM
+
+    Até 14 anos: INFANTIL
+
+    Até 19 anos: JUNIOR
+
+    Até 25 anos: SÊNIOR
+
+    Acima de 25: MASTER
+
+N1_14 Analisador de Triângulos: Peça o comprimento de três retas e diga ao usuário se elas podem ou não formar um triângulo.
+
+N1_15 Gerenciador de Pagamentos: Calcule o valor a ser pago por um produto, considerando o preço normal e a condição de pagamento:
+
+    À vista dinheiro/cheque: 10% de desconto.
+
+    À vista no cartão: 5% de desconto.
+
+    Em até 2x no cartão: preço formal.
+
+    3x ou mais no cartão: 20% de juros.
